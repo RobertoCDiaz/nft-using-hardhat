@@ -1,0 +1,2 @@
+PRIVATE_KEY=<Here goes the private key for your Rinkeby Account>
+ALCHEMY_URL=<Replace this with your Alchemy node URL>
